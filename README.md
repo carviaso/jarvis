@@ -3,7 +3,9 @@ Jorge Luis Martinez Suarez - Portfolio
 Overview
 Welcome to my GitHub repository! I'm Jorge Luis Martinez Suarez, a passionate programmer with expertise in various programming languages and technologies. This README.md file provides an overview of my background, skills, and projects. Feel free to explore and discover my work.
 
-About Me
+![Diagrame Update](diagrama udapte.png)
+
+## About Me
 Name: Jorge Luis Martinez Suarez
 Matricula: 2018-6244
 Education: Technologist in Mechatronics
